@@ -1,0 +1,6 @@
+# Personal data - never commit
+job-kit.config.md
+/*.pdf
+/Resume*
+/Cover Letter*
+/Tailoring Note*
